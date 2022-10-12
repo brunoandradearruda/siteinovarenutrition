@@ -225,7 +225,7 @@
         ]
     });
 
-/* 5. Video area Active */
+/* 5. Video area Active */  
     $('.video-items-active').slick({
       slidesToShow: 1,
       slidesToScroll: 1,
